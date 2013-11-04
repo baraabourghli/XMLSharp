@@ -1,0 +1,48 @@
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\Window1.baml
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\Window1.g.cs
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\App.g.cs
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject_MarkupCompile.cache
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject.g.resources
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject.Properties.Resources.resources
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject.csproj.GenerateResource.Cache
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\bin\Debug\PLproject.exe
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\bin\Debug\PLproject.pdb
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject.exe
+C:\Users\ABD\Documents\Visual Studio 2008\Projects\PLproject\PLproject\obj\Debug\PLproject.pdb
+G:\PLproject\PLproject\obj\Debug\PLproject.exe
+G:\PLproject\PLproject\obj\Debug\PLproject.pdb
+G:\PLproject\PLproject\bin\Debug\PLproject.exe
+G:\PLproject\PLproject\bin\Debug\PLproject.pdb
+G:\PLproject\PLproject\obj\Debug\ResolveAssemblyReference.cache
+G:\PLproject\PLproject\obj\Debug\Window1.baml
+G:\PLproject\PLproject\obj\Debug\Window1.g.cs
+G:\PLproject\PLproject\obj\Debug\App.g.cs
+G:\PLproject\PLproject\obj\Debug\PLproject_MarkupCompile.cache
+G:\PLproject\PLproject\obj\Debug\PLproject.g.resources
+G:\PLproject\PLproject\obj\Debug\PLproject.Properties.Resources.resources
+G:\PLproject\PLproject\obj\Debug\PLproject.csproj.GenerateResource.Cache
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject.exe
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject.pdb
+D:\MY Flash\PLproject\PLproject\bin\Debug\PLproject.exe
+D:\MY Flash\PLproject\PLproject\bin\Debug\PLproject.pdb
+D:\MY Flash\PLproject\PLproject\obj\Debug\ResolveAssemblyReference.cache
+D:\MY Flash\PLproject\PLproject\obj\Debug\Window1.baml
+D:\MY Flash\PLproject\PLproject\obj\Debug\Window1.g.cs
+D:\MY Flash\PLproject\PLproject\obj\Debug\App.g.cs
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject_MarkupCompile.cache
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject.g.resources
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject.Properties.Resources.resources
+D:\MY Flash\PLproject\PLproject\obj\Debug\PLproject.csproj.GenerateResource.Cache
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject.exe
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject.pdb
+D:\my study\my projects\MY projects\PLproject\PLproject\bin\Debug\PLproject.exe
+D:\my study\my projects\MY projects\PLproject\PLproject\bin\Debug\PLproject.pdb
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\ResolveAssemblyReference.cache
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\Window1.baml
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\Window1.g.cs
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\App.g.cs
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject_MarkupCompile.cache
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject.g.resources
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject.Properties.Resources.resources
+D:\my study\my projects\MY projects\PLproject\PLproject\obj\Debug\PLproject.csproj.GenerateResource.Cache
